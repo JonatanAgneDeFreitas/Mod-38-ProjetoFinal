@@ -10,7 +10,7 @@ A aplicação já inclui o carregamento do modelo, pré-processamento dos dados 
 
 ---
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://mod-38-projetofinal-jaf.streamlit.app/)
 
 ### . Instale os requirements
 
