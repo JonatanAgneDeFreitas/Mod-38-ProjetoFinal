@@ -22,6 +22,8 @@ pip install -r requirements.txt
 
 ## 📤 Como usar o App
 
+[2025-05-12-21-25-07.webm](https://github.com/user-attachments/assets/ad42e0bd-0d1a-481d-b5ba-e5483a22d3c0)
+
 1. Faça upload de um arquivo `.csv` com os dados a serem escorados.
 2. O modelo será carregado e aplicado aos dados.
 3. Os scores serão exibidos na tela e você poderá baixar um novo `.csv` com a coluna `score`.
